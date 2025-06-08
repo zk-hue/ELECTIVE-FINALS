@@ -39,10 +39,12 @@ Other features we’re looking forward to include live chat support, where users
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Technologies Used
-Frontend:
+Frontend: HTML,CSS, JavaScript
 
-Backend:
+Backend:PHP
 
-Database:
+Database:MySQL
+
+Authentication:PHP Sessions
 
 Cloud:
